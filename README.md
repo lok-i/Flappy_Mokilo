@@ -5,7 +5,7 @@ The age of computers graphics owes its humble origin to the period of games in p
 
 ## A Brief Walkthrough:-
 <p align="center">
-   <img width="250" height="458" src="https://github.com/lok-i/Flappy_Mokilo/blob/master/flmok7.gif">
+   <img width="600" height="458" src="https://github.com/lok-i/Flappy_Mokilo/blob/master/flmok7.gif">
 </p>
 PS:The lag that is felt is cox of the fps mismatch in the screen recording tool.
 
