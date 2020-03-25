@@ -7,7 +7,7 @@ The age of computers graphics owes its humble origin to the period of games in p
 <p align="center">
    <img width="600" height="458" src="https://github.com/lok-i/Flappy_Mokilo/blob/master/flmok7.gif">
 </p>
-PS:The lag that is felt is cox of the fps mismatch in the screen recording tool.
+PS:The lag that is felt is coz of the fps mismatch in the screen recording tool.
 
 ## Instruction for runing:
 * The code is entirely written in Turbo C++ compiler and the C++ version that it supports and will not be possible to compile and buils with any other compilers without flagging errors.
